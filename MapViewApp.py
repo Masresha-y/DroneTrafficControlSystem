@@ -19,7 +19,7 @@ This is the core module for the ADTCS project
 import os
 import random
 from math import *
-from kivy.garden.mapview.mapview.utils import clamp
+import from kivy.garden.mapview.mapview.utils import clamp
 import time
 import pickle
 import threading
